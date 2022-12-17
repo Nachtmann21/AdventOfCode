@@ -24,5 +24,4 @@ with open("elves.txt") as file:
     print("All sums: " + str(allSums))
     print("Greatest sum: " + str(greatestSum))
     print("Three greatest sums: " + str(threeGreatestSums))
-
-file.close()
+    file.close()
